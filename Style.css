@@ -13,11 +13,7 @@ html{
 body {
 
     font-family: 'poppins';
-    margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
+
 }
 
 a {
@@ -692,9 +688,10 @@ Header .logo{
 
     width: 80%;
     margin: 0 auto;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
 }
+
+
 
 .AboutThe h1{
     text-align: center;
